@@ -1,4 +1,4 @@
-"# unity-lego-microgame" 
+# unity-lego-microgame
 
 ## [link](https://steffenricklin.github.io/unity-lego-microgame/)
 [Click here to get to the WebGL / GitHub pages version of the game.](https://steffenricklin.github.io/unity-lego-microgame/)
