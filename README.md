@@ -5,4 +5,4 @@
 Have fun.
 
 ## Changes
-The following changes, next to the usual ones from the tutorial, were applied to the LEGO microgame:
+The following 10+ changes, next to the usual ones from the tutorial, were applied to the LEGO microgame:
