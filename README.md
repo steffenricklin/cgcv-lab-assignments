@@ -2,7 +2,7 @@
 
 A microgame created following the Unity LEGO microgame tutorial. Built for the Radboud University course 'Computer Graphics and Computer Vision'.
 
-## [link](https://steffenricklin.github.io/unity-lego-microgame/)
+## [Link to the WebGL web version](https://steffenricklin.github.io/unity-lego-microgame/)
 [Click here to get to the WebGL / GitHub pages version of the game.](https://steffenricklin.github.io/unity-lego-microgame/)
 
 Have fun.
