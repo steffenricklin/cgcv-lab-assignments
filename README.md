@@ -1,13 +1,20 @@
-# unity-lego-microgame
+# CGCV Unity lab assignment submissions
+
+This repo is used for uploading submissions to the lab assignments concerning Unity within the Radboud University master course "_Computer Graphics and Computer Vision_".
+
+## Lab 1
+
+This lab assignment gave an introduction into Unity. The group submission contains Unity Microgame tutorials with 10 changes per group member (3). 
+
+### unity-lego-microgame (Steffen)
 
 A microgame created following the Unity LEGO microgame tutorial. Built for the Radboud University course 'Computer Graphics and Computer Vision'.
 
-## [Link to the WebGL web version](https://steffenricklin.github.io/unity-lego-microgame/)
-[Click here to get to the WebGL / GitHub pages version of the game.](https://steffenricklin.github.io/unity-lego-microgame/)
+**[Click here to get to the WebGL / GitHub pages version of the game.](https://steffenricklin.github.io/unity-lego-microgame/)**
 
 Have fun.
 
-## Changes
+#### Changes
 The following 10+ changes, next to the usual ones from the tutorial, were applied to the LEGO microgame:
 
 1. added a wall at the starting area to not get killed in the starting area. So the player has a safe zone
@@ -30,3 +37,18 @@ The following 10+ changes, next to the usual ones from the tutorial, were applie
 
 10. added a detonation side that can be activated from the new island
 
+### Racinggame (Frederike)
+
+... [text](link to game)
+
+#### Changes
+
+...
+
+### ... (Ron)
+
+... [text](link to game)
+
+#### Changes
+
+...
