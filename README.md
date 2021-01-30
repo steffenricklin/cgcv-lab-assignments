@@ -98,7 +98,9 @@ ___
 A microgame created following the Unity LEGO microgame tutorial. Built for the Radboud University course 'Computer Graphics and Computer Vision'.
 
 
-**[Click here for the game. Have fun.](https://steffenricklin.github.io/cgcv-lab-assignments/lab1/steffen)**
+**[Click here for the game. Have fun.](https://steffenricklin.github.io/cgcv-lab-assignments/lab1/steffen){:target="_blank"}**
+
+**<a href="https://steffenricklin.github.io/cgcv-lab-assignments/lab1/steffen" target="_blank">Click here for the game. Have fun.</a>**
 
 The following 10+ changes, next to the usual ones from the tutorial, were applied to the LEGO microgame:
 
