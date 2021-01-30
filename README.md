@@ -13,7 +13,7 @@ This lab assignment gave an introduction into Unity. The group submission contai
 [Link to lab 1 page](https://steffenricklin.github.io/cgcv-lab-assignments/lab1/), **which contains summaries, list of changes and links to the games.**
 
 
-<a href="https://steffenricklin.github.io/cgcv-lab-assignments/lab1/frederike" target="_blank">Click here for the modified Racing microgame. Have fun.</a>** (Frederike)
+<a href="https://steffenricklin.github.io/cgcv-lab-assignments/lab1/frederike" target="_blank">Click here for the modified Racing microgame. Have fun.</a> (Frederike)
 
 
 <a href="https://steffenricklin.github.io/cgcv-lab-assignments/lab1/ron" target="_blank">Click here for the Ron game. Have fun.</a> (Ron)
