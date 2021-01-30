@@ -1,6 +1,6 @@
 # CGCV Unity lab assignment submissions
 
-This repo is used for uploading submissions to the lab assignments concerning Unity within the Radboud University master course "_Computer Graphics and Computer Vision_".
+This repository contains submissions to the lab assignments concerning Unity. The assignments were provided in the Radboud University Artificial Intelligence master course "_Computer Graphics and Computer Vision_".
 
 ## Lab 1
 
@@ -9,14 +9,16 @@ This lab assignment gave an introduction into Unity. The group submission contai
 ### LEGO microgame (Steffen)
 
 <details>
-<summary>Click for a short **summary**, link to the **game** and the list of **changes**</summary>
+<summary>Click for a short **summary,** link to the **game and** the list of **changes**</summary>
+
 
 A microgame created following the Unity LEGO microgame tutorial. Built for the Radboud University course 'Computer Graphics and Computer Vision'.
 
-[**Click here** for the game.](https://steffenricklin.github.io/cgcv-lab-assignments/lab1/steffen)
 
-Have fun.
+[**Click here** for the game. Have fun.](https://steffenricklin.github.io/cgcv-lab-assignments/lab1/steffen)
+
 The following 10+ changes, next to the usual ones from the tutorial, were applied to the LEGO microgame:
+
 
 #### List of changes
   
@@ -42,16 +44,20 @@ The following 10+ changes, next to the usual ones from the tutorial, were applie
 
 
 </details>
+
 ___
 
-### Racing game (Frederike)
+
+### Racing microgame (Frederike)
 
 <details>
-<summary>Click for a short **summary**, link to the **game** and the list of **changes**</summary>
+<summary>Click for a short **summary,** link to the **game and** the list of **changes**</summary>
 
-summary
+Text
 
-... [**Click here** for the game.](https://steffenricklin.github.io/cgcv-lab-assignments/lab1/frederike)
+[**Click here** for the game. Have fun](https://steffenricklin.github.io/cgcv-lab-assignments/lab1/frederike)
+
+#### List of changes
 
   
 	1.
@@ -78,15 +84,16 @@ summary
 
 ___
 
-### ... (Ron)
+### ? microgame (Ron)
 
 <details>
-<summary>Click for a short **summary**, link to the **game** and the list of **changes**</summary>
+<summary>Click for a short **summary,** link to the **game and** the list of **changes**</summary>
 
-summary
+Text.
 
-... [**Click here** for the game.](https://steffenricklin.github.io/cgcv-lab-assignments/lab1/ron)
+ [**Click here** for the game. Have fun](https://steffenricklin.github.io/cgcv-lab-assignments/lab1/ron)
 
+#### List of changes
   
 	1.
 	
