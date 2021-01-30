@@ -2,6 +2,10 @@
 
 This repository contains submissions to the lab assignments concerning Unity. The assignments were provided in the Radboud University Artificial Intelligence master course "_Computer Graphics and Computer Vision_".
 
+[Link to GitHub repository](https://github.com/steffenricklin/cgcv-lab-assignments)
+
+[Link to GitHub pages](https://steffenricklin.github.io/cgcv-lab-assignments/)
+
 ## Lab 1
 
 This lab assignment gave an introduction into Unity. The group submission contains Unity Microgame tutorials with 10 changes per group member (3). 
@@ -15,10 +19,11 @@ This lab assignment gave an introduction into Unity. The group submission contai
 
 <br>
 
+
 Text
 
 
-**[Click here for the game. Have fun](https://steffenricklin.github.io/cgcv-lab-assignments/lab1/frederike)**
+**<a href="https://steffenricklin.github.io/cgcv-lab-assignments/lab1/frederike" target="_blank">Click here for the game. Have fun.</a>**
 
 ##### List of changes
 
@@ -55,10 +60,11 @@ ___
 
 <br>
 
+
 Text.
 
 
-**[Click here for the game. Have fun](https://steffenricklin.github.io/cgcv-lab-assignments/lab1/ron)**
+**<a href="https://steffenricklin.github.io/cgcv-lab-assignments/lab1/ron" target="_blank">Click here for the game. Have fun.</a>**
 
 #### List of changes
   
@@ -95,10 +101,9 @@ ___
 
 <br>
 
+
 A microgame created following the Unity LEGO microgame tutorial. Built for the Radboud University course 'Computer Graphics and Computer Vision'.
 
-
-**[Click here for the game. Have fun.](https://steffenricklin.github.io/cgcv-lab-assignments/lab1/steffen){:target="_blank"}**
 
 **<a href="https://steffenricklin.github.io/cgcv-lab-assignments/lab1/steffen" target="_blank">Click here for the game. Have fun.</a>**
 
