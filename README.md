@@ -8,16 +8,17 @@ This lab assignment gave an introduction into Unity. The group submission contai
 
 ### LEGO microgame (Steffen)
 
+<details>
+<summary>Click for a short **summary**, link to the **game** and the list of **changes**</summary>
+
 A microgame created following the Unity LEGO microgame tutorial. Built for the Radboud University course 'Computer Graphics and Computer Vision'.
 
-**[Click here to get to the WebGL / GitHub pages version of the game.](https://steffenricklin.github.io/cgcv-lab-assignments/lab1/steffen)**
+[**Click here** for the game.](https://steffenricklin.github.io/cgcv-lab-assignments/lab1/steffen)
 
 Have fun.
 The following 10+ changes, next to the usual ones from the tutorial, were applied to the LEGO microgame:
 
-
-<details>
-  <summary> show list of changes </summary>
+#### List of changes
   
     1. added a wall at the starting area to not get killed in the starting area. So the player has a safe zone
 	
@@ -38,17 +39,20 @@ The following 10+ changes, next to the usual ones from the tutorial, were applie
 	9. added a giraffe that looks at the player and plays a sound when the button 'F' is pressed
 	
 	10. added a detonation side that can be activated from the new island
- 
-</details>
 
+
+</details>
+___
 
 ### Racing game (Frederike)
 
-... [text for link to game](link to game)
-
-
 <details>
-  <summary> show list of changes </summary>
+<summary>Click for a short **summary**, link to the **game** and the list of **changes**</summary>
+
+summary
+
+... [**Click here** for the game.](https://steffenricklin.github.io/cgcv-lab-assignments/lab1/frederike)
+
   
 	1.
 	
@@ -71,14 +75,18 @@ The following 10+ changes, next to the usual ones from the tutorial, were applie
 	10.
   
 </details>
+
+___
 
 ### ... (Ron)
 
-... [text for link to game](link to game)
-
-
 <details>
-  <summary> show list of changes </summary>
+<summary>Click for a short **summary**, link to the **game** and the list of **changes**</summary>
+
+summary
+
+... [**Click here** for the game.](https://steffenricklin.github.io/cgcv-lab-assignments/lab1/ron)
+
   
 	1.
 	
@@ -101,3 +109,5 @@ The following 10+ changes, next to the usual ones from the tutorial, were applie
 	10.
   
 </details>
+
+___
