@@ -10,7 +10,7 @@ This lab assignment gave an introduction into Unity. The group submission contai
 
 A microgame created following the Unity LEGO microgame tutorial. Built for the Radboud University course 'Computer Graphics and Computer Vision'.
 
-**[Click here to get to the WebGL / GitHub pages version of the game.](https://steffenricklin.github.io/unity-lego-microgame/)**
+**[Click here to get to the WebGL / GitHub pages version of the game.](https://steffenricklin.github.io/cgcv-lab-assignments/lab1/steffen)**
 
 Have fun.
 
