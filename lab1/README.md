@@ -50,25 +50,25 @@ Summary
 
 #### List of changes
   
-	1.
+	1. Changed the track to be longer and be more interesting
 	
-	2.
+	2. Added a floating new checkpoint
 	
-	3.
+	3. Added some crashObjects
 	
-	4.
+	4. Added a stuntjump
 	
-	5.
+	5. Added a wall so the kart doesn't flop out of the track after the jump
 	
-	6.
+	6. Changed the tree color
 	
-	7.
+	7. Changed the cloud color
 	
-	8.
+	8. Created a particle system that floats out of the kart
 	
-	9.
+	9. Awesome lasers come out of the tires
 	
-	10.
+	10. Added an ancient arch
   
   
 ___
