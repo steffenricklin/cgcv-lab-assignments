@@ -11,8 +11,6 @@ This lab assignment gave an introduction into Unity. The group submission contai
 
 ### Racing microgame (Frederike)
 
-Summary
-
 <a href="https://steffenricklin.github.io/cgcv-lab-assignments/lab1/frederike" target="_blank">Click here for the game. Have fun.</a>
 
 ##### List of changes
@@ -41,10 +39,7 @@ Summary
 
 ___
 
-### ? microgame (Ron)
-
-Summary
-
+### Racing microgame (Ron)
 
 <a href="https://steffenricklin.github.io/cgcv-lab-assignments/lab1/ron" target="_blank">Click here for the game. Have fun.</a>
 
@@ -87,11 +82,11 @@ The following 10+ changes, next to the usual ones from the tutorial, were applie
 
 #### List of changes
   
-    1. added a wall at the starting area to not get killed in the starting area. So the player has a safe zone
+    	1. Added a wall at the starting area to not get killed in the starting area. So the player has a safe zone
 	
-	2. added a sound for the pig on the island
+	2. Added a sound for the pig on the island
 	
-	3. added a platform for easier access to the island
+	3. Added a platform for easier access to the island
 	
 	4. Made the wizard on the island speak in the form of a speech bubble that warns the player of the dangerous pig.
 	
@@ -99,13 +94,13 @@ The following 10+ changes, next to the usual ones from the tutorial, were applie
 	
 	6. Connected another island close to the win-block with a platform which can be moved by the player
 	
-	7. on the new island, we planted 3 cacti and made them hazardous
+	7. On the new island, we planted 3 cacti and made them hazardous
 	
 	8. on the new island, we added a collectible crab
 	
-	9. added a giraffe that looks at the player and plays a sound when the button 'F' is pressed
+	9. Added a giraffe that looks at the player and plays a sound when the button 'F' is pressed
 	
-	10. added a detonation side that can be activated from the new island
+	10. Added a detonation side that can be activated from the new island
 
 
 ___
