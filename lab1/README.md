@@ -18,25 +18,25 @@ Summary
 ##### List of changes
 
   
-	1.
+	1. Added a building next to the track
 	
-	2.
+	2. Added transparent stones to the final track piece
 	
-	3.
+	3. Moved the old checkpoint rings
 	
-	4.
+	4. Added a new secret checkpoint to the second track
 	
-	5.
+	5. Added ramps to jump out of the old track and onto the new track
 	
-	6.
+	6. Added a ramp to jump back to the old track
 	
-	7.
+	7. Changed the sounds effect when passing checkpoints to "pop"
 	
-	8.
+	8. Prolonged the time limit to two minutes
 	
-	9.
+	9. Increased the mass of the kart, its drag, its bounce factor and its speed
 	
-	10.
+	10. Added seven little buddies following the players steering 
   
 
 ___
