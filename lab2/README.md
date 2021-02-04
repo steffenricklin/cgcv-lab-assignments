@@ -4,11 +4,11 @@
 
 [Back to the lab overview](https://steffenricklin.github.io/cgcv-lab-assignments/)
 
-## Lab 1
+## Lab 2
 
-This lab assignment gave an introduction into Unity. The group submission contains Unity Microgame tutorials with 10 changes per group member (3).
+This lab assignment was a Creators Kit Unity Tutorial.
 
 
-### Racing microgame (Frederike)
+### Created game 
 
-<a href="https://steffenricklin.github.io/cgcv-lab-assignments/lab1/frederike" target="_blank">Click here for the game. Have fun.</a>
+<a href="https://steffenricklin.github.io/cgcv-lab-assignments/lab2/game" target="_blank">Click here for the game. Have fun.</a>
