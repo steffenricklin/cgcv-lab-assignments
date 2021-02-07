@@ -14,4 +14,4 @@ This lab assignment was a Creators Kit Unity Tutorial.
 We encoutered the same error when building for WebGL as others have reported in Discord: 
 The build cannot be completed unless the colour space is changed to gamma. Therefore, the colours are changed in the here uploaded version.
 
-<a href="https://steffenricklin.github.io/cgcv-lab-assignments/lab2/Cactus_WebGL" target="_blank">Click here for the game. Have fun.</a>
+<a href="https://steffenricklin.github.io/cgcv-lab-assignments/lab2/ronsCactus" target="_blank">Click here for the game. Have fun.</a>
