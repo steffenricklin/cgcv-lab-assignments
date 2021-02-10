@@ -24,6 +24,8 @@ This lab assignment gave an introduction into Unity. The group submission contai
 
 ## Lab 2
 
+[Link to lab 2 page](https://steffenricklin.github.io/cgcv-lab-assignments/lab2/). It contains nothing more than the link that is also provided below.
+
 Since the game's version that was uploading via GitHub pages did not finish loading,
 we uploaded the game to play.unity.com, click below link to get to the game:
 
