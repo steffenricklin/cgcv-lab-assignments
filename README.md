@@ -24,13 +24,9 @@ This lab assignment gave an introduction into Unity. The group submission contai
 
 ## Lab 2
 
+Since the game's version that was uploading via GitHub pages did not finish loading,
+we uploaded the game to play.unity.com, click below link to get to the game:
 
-[Link to lab 2 page](https://steffenricklin.github.io/cgcv-lab-assignments/lab2/)
-
-
-<a href="https://steffenricklin.github.io/cgcv-lab-assignments/lab2/game" target="_blank">Click here for the Game. Have fun.</a> 
-
-
-
+<a href="https://play.unity.com/mg/other/moose-gone-wild" target="_blank">Click here for the game. Have fun.</a>
 
 ___
