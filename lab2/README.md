@@ -11,7 +11,7 @@ This lab assignment was a Creators Kit Unity Tutorial.
 
 ### Created game 
 
-We encoutered the same error when building for WebGL as others have reported in Discord: 
-The build cannot be completed unless the colour space is changed to gamma. Therefore, the colours are changed in the here uploaded version.
+Since the game's version that was uploading via GitHub pages did not finish loading,
+we uploaded the game to play.unity.com, click below link to get to the game:
 
-<a href="https://steffenricklin.github.io/cgcv-lab-assignments/lab2/ronsCactus" target="_blank">Click here for the game. Have fun.</a>
+<a href="https://play.unity.com/mg/other/moose-gone-wild" target="_blank">Click here for the game. Have fun.</a>
