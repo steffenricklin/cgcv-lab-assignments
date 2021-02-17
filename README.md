@@ -35,7 +35,7 @@ we uploaded the game to play.unity.com, click below link to get to the game:
 
 This lab assignment was creating a simple breakout game in Unity.
 
-For the link to the lab page, <a href="https://steffenricklin.github.io/cgcv-lab-assignments/lab3/" target="_blank">click here.</a>
+For the link to the lab page, <a href="https://steffenricklin.github.io/cgcv-lab-assignments/lab3/">click here.</a>
 
 For the direct link to the game, <a href="https://steffenricklin.github.io/cgcv-lab-assignments/lab3/game" target="_blank">click here.</a>
 
