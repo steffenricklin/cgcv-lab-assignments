@@ -15,3 +15,4 @@ Since the game's version that was uploading via GitHub pages did not finish load
 we uploaded the game to play.unity.com, click below link to get to the game:
 
 <a href="https://steffenricklin.github.io/cgcv-lab-assignments/lab3/game" target="_blank">Click here for the game. Have fun.</a>
+<a href="https://steffenricklin.github.io/cgcv-lab-assignments/lab3/breakout_WebGL" target="_blank">Click here for the development build game. Have fun.</a>
