@@ -43,4 +43,5 @@ For the direct link to the game, <a href="https://steffenricklin.github.io/cgcv-
 
 Click the link below to see a wall of eyeballs following you everywhere.
 
+<a href="https://steffenricklin.github.io/cgcv-lab-assignments/lab4/EyeRon" target="_blank">Click here for the crazy eyes.</a>
 
