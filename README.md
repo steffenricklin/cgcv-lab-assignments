@@ -39,4 +39,8 @@ For the link to the lab page, <a href="https://steffenricklin.github.io/cgcv-lab
 
 For the direct link to the game, <a href="https://steffenricklin.github.io/cgcv-lab-assignments/lab3/game" target="_blank">click here.</a>
 
-___
+## Lab 4
+
+Click the link below to see a wall of eyeballs following you everywhere.
+
+
