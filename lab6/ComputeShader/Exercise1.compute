@@ -1,0 +1,63 @@
+﻿// Each #kernel tells which function to compile; you can have many kernels
+
+#pragma kernel CSMain
+
+// Create a RenderTexture with enableRandomWrite flag and set it
+// with cs.SetTexture
+float _Left;
+float _Right;
+float _Top;
+float _Bottom;
+float _Width;
+float _Hight;
+float _Iterations;
+float _Bailout;
+float escapedTime;
+Texture2D<float4> _ColorGradient;
+SamplerState sampler_ColorGradient;
+RWTexture2D<float4> _MandelbrotSet; 
+
+float EscapeTime(float2 c)
+{
+    // initialize z
+    float2 z = 0;
+    // iterate z 
+    for (int i = 0; i <= _Iterations; i++)
+    {
+        z = float2(z.x * z.x - z.y * z.y + c.x, 2 * z.x * z.y + c.y);
+         if (length(z) > _Bailout) break;
+   }
+    // return the escape time
+    float escapedTime = i / float(_Iterations);
+    return escapedTime;
+}
+
+// Wikipedia code
+float EscapeTime2(float2 c)
+{
+  
+    float x = 0.0;
+    float y = 0.0;
+    int iteration = 0;
+    int max_iteration = _Iterations;
+    while (x*x + y*y < _Bailout*_Bailout && iteration < max_iteration) {
+        float xtemp = x*x - y*y + c.x;
+        y = 2*x*y + c.y;
+        x = xtemp;
+        iteration = iteration + 1;
+    }
+    float result = iteration/ float(max_iteration);
+return result;    
+}
+
+
+[numthreads(8,8,1)]
+void CSMain (uint3 id : SV_DispatchThreadID)
+{
+    float2 c = 0;
+    c.x = ((_Right-_Left) * (id.x / float(_Width))) + _Left;
+    c.y = ((_Top -_Bottom) * (id.y / float(_Hight)))  + _Bottom;
+    float escapedTime = EscapeTime(c);
+    float4 color = _ColorGradient.SampleLevel(sampler_ColorGradient, float2(escapedTime,0),0);
+    _MandelbrotSet[id.xy] = color;
+}
