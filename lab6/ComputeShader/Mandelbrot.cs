@@ -90,8 +90,8 @@ namespace Lab6.Scripts
                 xScale = xScale - zoomvalueX;
                 yScale = yScale - zoomvalueY;
                 // calculate border postions around new center
-                left = new_positionx - (xScale * 0.75f);
-                right = new_positionx + (xScale * 0.25f);
+                left = new_positionx - (xScale * 0.6f);
+                right = new_positionx + (xScale * 0.4f);
                 bottom = new_positiony - (yScale * 0.6f);
                 top = new_positiony + (yScale * 0.4f);
 
