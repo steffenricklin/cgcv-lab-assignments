@@ -48,13 +48,9 @@ Click the link below to see a wall of eyeballs following you everywhere.
 
 ## Lab 6
 
-We implmented a shader on the basis of the CGCV tutorial
+We implmented a shader on the basis of the CGCV tutorial.
 
-<a href="https://github.com/steffenricklin/cgcv-lab-assignments/blob/8788902474debaf6dadd4ef7d25bea7972151fbf/lab6/ComputeShader/FractalVortex_GameBuild.zip" >Click here to get to the macOS build and the shader script</a>
+See lab6 for the shader script and the macOS build.
 
-<a href="https://steffenricklin.github.io/cgcv-lab-assignments/blob/8788902474debaf6dadd4ef7d25bea7972151fbf/lab6/ComputeShader/Screenshots/" >And here for screenshots</a>
+Secondly we implemented the Mandelbort images based on a youtube tutorial without a compute shader 
 
-
-and we implemented the Mandelbort images based on a youtube tutorial without a compute shader 
-
-<a href="https://steffenricklin.github.io/cgcv-lab-assignments/lab6/ComputeShader" target="_blank">Click here to for...</a>
