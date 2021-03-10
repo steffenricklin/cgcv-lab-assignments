@@ -50,7 +50,7 @@ Click the link below to see a wall of eyeballs following you everywhere.
 
 We implmented a shader on the basis of the CGCV tutorial
 
-<a href="https://steffenricklin.github.io/cgcv-lab-assignments/lab6/" >Click here to get to the macOS build and the shader script</a>
+<a href="https://steffenricklin.github.io/cgcv-lab-assignments/lab3/" >Click here to get to the macOS build and the shader script</a>
 
 <a href="https://steffenricklin.github.io/cgcv-lab-assignments/lab6/ComputeShader/Screenshots/" >And here for screenshots</a>
 
