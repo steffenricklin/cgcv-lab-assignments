@@ -45,3 +45,12 @@ Click the link below to see a wall of eyeballs following you everywhere.
 
 <a href="https://steffenricklin.github.io/cgcv-lab-assignments/lab4/EyeRon" target="_blank">Click here for the crazy eyes.</a>
 
+
+## Lab 6
+
+We implmented a shader on the basis of the CGCV tutorial
+<a href="https://steffenricklin.github.io/cgcv-lab-assignments/lab6/ComputeShader" target="_blank">Click here to get to the macOS build</a>
+<a href="https://steffenricklin.github.io/cgcv-lab-assignments/lab6/ComputeShader/Screenshots" target="_blank">And here for screenshots</a>
+
+and we implemented the Mandelbort images based on a youtube tutorial without a compute shader 
+<a href="https://steffenricklin.github.io/cgcv-lab-assignments/lab6/ComputeShader" target="_blank">Click here to for...</a>
