@@ -52,5 +52,3 @@ We implmented a shader on the basis of the CGCV tutorial.
 
 See lab6 for the shader script and the macOS build.
 
-Secondly we implemented the Mandelbort images based on a youtube tutorial without a compute shader 
-
