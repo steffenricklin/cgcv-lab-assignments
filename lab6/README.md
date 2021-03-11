@@ -6,6 +6,7 @@
 
 ## Lab 6
 
-This task was to create a Mandelbrot shader. We did that both an the basis of a Compute Shader and a second version without a Compute Shader
+This task was to create a Mandelbrot shader. 
+In ComputeShader you can find both a MacOS build and the corresponding c# and shader script. 
 
 
