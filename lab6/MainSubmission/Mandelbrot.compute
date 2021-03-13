@@ -1,0 +1,61 @@
+// Each #kernel tells which function to compile; you can have many kernels
+#pragma kernel CSMain
+
+// declare the variables
+Texture2D<float4> _ColorGradient;
+SamplerState sampler_ColorGradient;
+RWTexture2D<float4> _MandelbrotSet;
+int _Iterations;
+int _Bailout;
+float _Bottom;
+float _Left;
+float _Right;
+float _Top;
+int _Width;
+int _Height;
+
+float EscapeTime(float2 c)
+{
+    // initialize z
+    float2 z = 0;
+
+    // iterate z
+    int i;
+    for (i = 0; i < _Iterations; i++)
+    {
+        //
+        z = float2(z.x * z.x - z.y * z.y, 2 * z.x * z.y) + c;
+        if (length(z) > _Bailout)
+            break;
+    }
+    float escapeTime = i / float(_Iterations);
+
+    // return the escape time
+    return escapeTime;
+}
+
+//// Create a RenderTexture with enableRandomWrite flag and set it
+//// with cs.SetTexture
+//RWTexture2D<float4> Result;
+
+[numthreads(8,8,1)]
+void CSMain (uint3 id : SV_DispatchThreadID)
+{
+    // _Left and _Right are the left and right x-coordinate respectively
+    // _Width is the number of pixels in the x-axis
+    // id.x is the x-index of the pixel
+
+    // convert indices to coordinates
+    float x = (_Right - _Left) * (id.x / float(_Width)) + _Left;
+    float y = (_Top - _Bottom) * (id.y / float(_Height)) + _Bottom;
+
+    // compute the escape time
+    float escapeTime = EscapeTime(float2(x, y));
+    // float escapeTime = i / float(_Iterations);
+
+    // sample the color
+    float4 color = _ColorGradient.SampleLevel(sampler_ColorGradient, float2(escapeTime, 0), 0);
+
+    // set the pixel value
+    _MandelbrotSet[id.xy] = color;
+}

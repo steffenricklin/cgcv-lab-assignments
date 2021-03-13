@@ -48,7 +48,9 @@ Click the link below to see a wall of eyeballs following you everywhere.
 
 ## Lab 6
 
+[Link to lab 6 page](https://steffenricklin.github.io/cgcv-lab-assignments/lab6/).
+
 We implmented a shader on the basis of the CGCV tutorial.
 
-See lab6 for the shader script and the macOS build.
+See lab6 for the shader script and the Windows / MacOS builds.
 
