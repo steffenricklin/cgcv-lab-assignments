@@ -38,17 +38,17 @@ Despite the screenshots saying "_Press 'M' for some magic_", the magic only happ
 ___
 
 ### Screenshots of the third implementation
-![Mandelbrot-Screenshot-Freddy-0](https://github.com/steffenricklin/cgcv-lab-assignments/blob/main/lab6/ComputeShader/Screenshots/Bildschirmfoto\ 2021-03-08\ um\ 22.41.22.png)
-![Mandelbrot-Screenshot-Freddy-0](https://github.com/steffenricklin/cgcv-lab-assignments/blob/main/lab6/ComputeShader/Screenshots/Bildschirmfoto\ 2021-03-08\ um\ 22.58.05.png)
-![Mandelbrot-Screenshot-Freddy-0](https://github.com/steffenricklin/cgcv-lab-assignments/blob/main/lab6/ComputeShader/Screenshots/Bildschirmfoto\ 2021-03-09\ um\ 08.53.40.png)
-![Mandelbrot-Screenshot-Freddy-0](https://github.com/steffenricklin/cgcv-lab-assignments/blob/main/lab6/ComputeShader/Screenshots/Bildschirmfoto\ 2021-03-09\ um\ 09.24.28.png)
-![Mandelbrot-Screenshot-Freddy-0](https://github.com/steffenricklin/cgcv-lab-assignments/blob/main/lab6/ComputeShader/Screenshots/Bildschirmfoto\ 2021-03-09\ um\ 09.45.24.png)
-![Mandelbrot-Screenshot-Freddy-0](https://github.com/steffenricklin/cgcv-lab-assignments/blob/main/lab6/ComputeShader/Screenshots/Bildschirmfoto\ 2021-03-09\ um\ 09.59.08.png)
-![Mandelbrot-Screenshot-Freddy-0](https://github.com/steffenricklin/cgcv-lab-assignments/blob/main/lab6/ComputeShader/Screenshots/Bildschirmfoto\ 2021-03-09\ um\ 10.10.31.png)
-![Mandelbrot-Screenshot-Freddy-0](https://github.com/steffenricklin/cgcv-lab-assignments/blob/main/lab6/ComputeShader/Screenshots/Bildschirmfoto\ 2021-03-09\ um\ 10.14.59.png)
-![Mandelbrot-Screenshot-Freddy-0](https://github.com/steffenricklin/cgcv-lab-assignments/blob/main/lab6/ComputeShader/Screenshots/Bildschirmfoto\ 2021-03-09\ um\ 10.15.40.png)
-![Mandelbrot-Screenshot-Freddy-0](https://github.com/steffenricklin/cgcv-lab-assignments/blob/main/lab6/ComputeShader/Screenshots/Bildschirmfoto\ 2021-03-09\ um\ 10.20.16.png)
-![Mandelbrot-Screenshot-Freddy-0](https://github.com/steffenricklin/cgcv-lab-assignments/blob/main/lab6/ComputeShader/Screenshots/Bildschirmfoto\ 2021-03-09\ um\ 10.20.31.png)
+![Mandelbrot-Screenshot-Freddy-0](https://github.com/steffenricklin/cgcv-lab-assignments/blob/main/lab6/ComputeShader/Screenshots/Bildschirmfoto%202021-03-08%20um%2022.41.22.png)
+![Mandelbrot-Screenshot-Freddy-0](https://github.com/steffenricklin/cgcv-lab-assignments/blob/main/lab6/ComputeShader/Screenshots/Bildschirmfoto%202021-03-08%20um%2022.58.05.png)
+![Mandelbrot-Screenshot-Freddy-0](https://github.com/steffenricklin/cgcv-lab-assignments/blob/main/lab6/ComputeShader/Screenshots/Bildschirmfoto%202021-03-09%20um%2008.53.40.png)
+![Mandelbrot-Screenshot-Freddy-0](https://github.com/steffenricklin/cgcv-lab-assignments/blob/main/lab6/ComputeShader/Screenshots/Bildschirmfoto%202021-03-09%20um%2009.24.28.png)
+![Mandelbrot-Screenshot-Freddy-0](https://github.com/steffenricklin/cgcv-lab-assignments/blob/main/lab6/ComputeShader/Screenshots/Bildschirmfoto%202021-03-09%20um%2009.45.24.png)
+![Mandelbrot-Screenshot-Freddy-0](https://github.com/steffenricklin/cgcv-lab-assignments/blob/main/lab6/ComputeShader/Screenshots/Bildschirmfoto%202021-03-09%20um%2009.59.08.png)
+![Mandelbrot-Screenshot-Freddy-0](https://github.com/steffenricklin/cgcv-lab-assignments/blob/main/lab6/ComputeShader/Screenshots/Bildschirmfoto%202021-03-09%20um%2010.10.31.png)
+![Mandelbrot-Screenshot-Freddy-0](https://github.com/steffenricklin/cgcv-lab-assignments/blob/main/lab6/ComputeShader/Screenshots/Bildschirmfoto%202021-03-09%20um%2010.14.59.png)
+![Mandelbrot-Screenshot-Freddy-0](https://github.com/steffenricklin/cgcv-lab-assignments/blob/main/lab6/ComputeShader/Screenshots/Bildschirmfoto%202021-03-09%20um%2010.15.40.png)
+![Mandelbrot-Screenshot-Freddy-0](https://github.com/steffenricklin/cgcv-lab-assignments/blob/main/lab6/ComputeShader/Screenshots/Bildschirmfoto%202021-03-09%20um%2010.20.16.png)
+![Mandelbrot-Screenshot-Freddy-0](https://github.com/steffenricklin/cgcv-lab-assignments/blob/main/lab6/ComputeShader/Screenshots/Bildschirmfoto%202021-03-09%20um%2010.20.31.png)
 
 
 ___
