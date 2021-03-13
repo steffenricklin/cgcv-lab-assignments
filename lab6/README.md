@@ -25,7 +25,7 @@ In ComputeShader you can find both a MacOS build and the corresponding c# and sh
 [Link to the third (optional) implementation.](https://github.com/steffenricklin/cgcv-lab-assignments/tree/main/lab6/ComputeShader)
 
 ### Gif of the bonus implementation
-![Mandelbrot](https://github.com/steffenricklin/cgcv-lab-assignments/blob/main/lab6/RonScripts/mandel.gif)
+![Mandelbrot](./RonScripts/mandel.gif)
 
 ___
 
