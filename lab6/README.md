@@ -21,7 +21,12 @@ In ComputeShader you can find both a MacOS build and the corresponding c# and sh
 ### Gif of the bonus implementation
 ![Mandelbrot](https://github.com/steffenricklin/cgcv-lab-assignments/blob/main/lab6/RonScripts/mandel.gif)
 
+___
+
 ### Screenshots of the main submission
+
+Despite the screenshots saying "_Press 'M' for some magic_", the magic only happens if _'Space'_ is pressed. The UI label is fixed in the uploaded build.
+
 ![Mandelbrot-Screenshot-Main-0](https://github.com/steffenricklin/cgcv-lab-assignments/lab6/MainSubmission/Screenshots/Mandelbrot-0.PNG)
 ![Mandelbrot-Screenshot-Main-1](https://github.com/steffenricklin/cgcv-lab-assignments/lab6/MainSubmission/Screenshots/Mandelbrot-1.PNG)
 ![Mandelbrot-Screenshot-Main-2](https://github.com/steffenricklin/cgcv-lab-assignments/lab6/MainSubmission/Screenshots/Mandelbrot-2.PNG)
@@ -30,3 +35,28 @@ In ComputeShader you can find both a MacOS build and the corresponding c# and sh
 ![Mandelbrot-Screenshot-Main-5](https://github.com/steffenricklin/cgcv-lab-assignments/lab6/MainSubmission/Screenshots/Mandelbrot-5.PNG)
 ![Mandelbrot-Screenshot-Main-6](https://github.com/steffenricklin/cgcv-lab-assignments/lab6/MainSubmission/Screenshots/Mandelbrot-6.PNG)
 
+___
+
+### Screenshots of the third implementation
+![Mandelbrot-Screenshot-Freddy-0](https://github.com/steffenricklin/cgcv-lab-assignments/lab6/ComputeShader/Screenshots/Bildschirmfoto 2021-03-08 um 22.41.22.png)
+![Mandelbrot-Screenshot-Freddy-0](https://github.com/steffenricklin/cgcv-lab-assignments/lab6/ComputeShader/Screenshots/Bildschirmfoto 2021-03-08 um 22.58.05.png)
+![Mandelbrot-Screenshot-Freddy-0](https://github.com/steffenricklin/cgcv-lab-assignments/lab6/ComputeShader/Screenshots/Bildschirmfoto 2021-03-09 um 08.53.40.png)
+![Mandelbrot-Screenshot-Freddy-0](https://github.com/steffenricklin/cgcv-lab-assignments/lab6/ComputeShader/Screenshots/Bildschirmfoto 2021-03-09 um 09.24.28.png)
+![Mandelbrot-Screenshot-Freddy-0](https://github.com/steffenricklin/cgcv-lab-assignments/lab6/ComputeShader/Screenshots/Bildschirmfoto 2021-03-09 um 09.45.24.png)
+![Mandelbrot-Screenshot-Freddy-0](https://github.com/steffenricklin/cgcv-lab-assignments/lab6/ComputeShader/Screenshots/Bildschirmfoto 2021-03-09 um 09.59.08.png)
+![Mandelbrot-Screenshot-Freddy-0](https://github.com/steffenricklin/cgcv-lab-assignments/lab6/ComputeShader/Screenshots/Bildschirmfoto 2021-03-09 um 10.10.31.png)
+![Mandelbrot-Screenshot-Freddy-0](https://github.com/steffenricklin/cgcv-lab-assignments/lab6/ComputeShader/Screenshots/Bildschirmfoto 2021-03-09 um 10.14.59.png)
+![Mandelbrot-Screenshot-Freddy-0](https://github.com/steffenricklin/cgcv-lab-assignments/lab6/ComputeShader/Screenshots/Bildschirmfoto 2021-03-09 um 10.15.40.png)
+![Mandelbrot-Screenshot-Freddy-0](https://github.com/steffenricklin/cgcv-lab-assignments/lab6/ComputeShader/Screenshots/Bildschirmfoto 2021-03-09 um 10.20.16.png)
+![Mandelbrot-Screenshot-Freddy-0](https://github.com/steffenricklin/cgcv-lab-assignments/lab6/ComputeShader/Screenshots/Bildschirmfoto 2021-03-09 um 10.20.31.png)
+
+
+___
+
+___
+
+[Link to GitHub repository](https://github.com/steffenricklin/cgcv-lab-assignments)
+
+[Back to the lab overview](https://steffenricklin.github.io/cgcv-lab-assignments/)
+
+___
