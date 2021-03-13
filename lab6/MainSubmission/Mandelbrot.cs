@@ -16,6 +16,7 @@ namespace Lab6.Scripts
         [SerializeField] private float left;
         [SerializeField] private float right;
         [SerializeField] private float top;
+        [SerializeField] private float scaleFactor;
 
         private float width;  // calculated by the difference right - left
         private float height;  // calculated by the difference top - bottom
@@ -36,6 +37,7 @@ namespace Lab6.Scripts
             width = right - left;
             height = top - bottom;
             gradientTextureIndex = 0;
+            scaleFactor = .02f;
 
             // set shader variables (ints and floats)
             computeShader.SetFloat("_Left", left);
@@ -82,7 +84,7 @@ namespace Lab6.Scripts
         }
 
         // Update is called once per frame
-        void Update()
+        void FixedUpdate()
         {
             // Reset
             if (Input.GetKeyDown(KeyCode.R))
@@ -91,7 +93,7 @@ namespace Lab6.Scripts
             }
 
 
-            Vector2 scale = new Vector2(1f, 1f) * .001f;  // zoom and move speed factor
+            Vector2 scale = new Vector2(1f, 1f) * scaleFactor;  // zoom and move speed factor
             // Change of center position via WASD-keys
             if (Input.GetKey(KeyCode.A)) left += -width * scale.x;
             if (Input.GetKey(KeyCode.D)) left += width * scale.x;
