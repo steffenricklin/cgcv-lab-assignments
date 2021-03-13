@@ -10,6 +10,6 @@ This task was to create a Mandelbrot shader.
 In ComputeShader you can find both a MacOS build and the corresponding c# and shader script. 
 
 
-![Mandelbrot](lab6/RonScripts/giphy.gif)
+![Mandelbrot](https://github.com/steffenricklin/cgcv-lab-assignments/blob/main/lab6/RonScripts/mandel.gif)
 
 
