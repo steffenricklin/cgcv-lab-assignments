@@ -4,7 +4,9 @@
 
 [Back to the lab overview](https://steffenricklin.github.io/cgcv-lab-assignments/)
 
-[This page as GitHub pages](https://steffenricklin.github.io/cgcv-lab-assignments/lab6/)
+[Go to lab6 as GitHub pages](https://steffenricklin.github.io/cgcv-lab-assignments/lab6/)
+
+[Go to lab6 as GitHub repo](https://github.com/steffenricklin/cgcv-lab-assignments/lab6/)
 
 ## Lab 6
 
@@ -25,6 +27,8 @@ We have a third implementation that uses the mouse to zoom in and out whereas th
 In ComputeShader you can find both a MacOS build and the corresponding c# and shader script.
 
 [Link to the third (optional) implementation.](https://github.com/steffenricklin/cgcv-lab-assignments/tree/main/lab6/ComputeShader)
+
+___
 
 ### Gif of the bonus implementation
 ![Mandelbrot](./RonScripts/mandel.gif)
@@ -63,8 +67,12 @@ ___
 
 ___
 
-[Link to GitHub repository](https://github.com/steffenricklin/cgcv-lab-assignments)
+[Link to GitHub main repository](https://github.com/steffenricklin/cgcv-lab-assignments)
 
 [Back to the lab overview](https://steffenricklin.github.io/cgcv-lab-assignments/)
+
+[Go to lab6 as GitHub pages](https://steffenricklin.github.io/cgcv-lab-assignments/lab6/)
+
+[Go to lab6 as GitHub repo](https://github.com/steffenricklin/cgcv-lab-assignments/lab6/)
 
 ___
