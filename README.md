@@ -54,3 +54,7 @@ We implmented a shader on the basis of the CGCV tutorial.
 
 See lab6 for the shader script and the Windows / MacOS builds.
 
+
+## Lab 7 - Landscape generation
+
+[Link to lab 7 page](https://steffenricklin.github.io/cgcv-lab-assignments/lab7/).
