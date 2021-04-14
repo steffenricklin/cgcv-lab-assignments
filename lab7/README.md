@@ -10,7 +10,8 @@
 
 ## Lab 7 - Landscape generation
 
-Can be viewed by clicking [here](https://steffenricklin.github.io/cgcv-lab-assignments/lab7/LandscapesWebGL)
+Can be viewed by clicking [here](https://play.unity.com/mg/other/cgcv2021-lab-7-landscape-generation-with-terraces)
+(might not work on Brave, tested on Safari and Chrome)
 
 
 ___
