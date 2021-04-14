@@ -4,9 +4,9 @@
 
 [Back to the lab overview](https://steffenricklin.github.io/cgcv-lab-assignments/)
 
-[Go to lab6 as GitHub pages](https://steffenricklin.github.io/cgcv-lab-assignments/lab7/)
+[Go to lab7 as GitHub pages](https://steffenricklin.github.io/cgcv-lab-assignments/lab7/)
 
-[Go to lab6 as GitHub repo](https://github.com/steffenricklin/cgcv-lab-assignments/lab7/)
+[Go to lab7 as GitHub repo](https://github.com/steffenricklin/cgcv-lab-assignments/lab7/)
 
 ## Lab 7 - Landscape generation
 
@@ -21,8 +21,8 @@ ___
 
 [Back to the lab overview](https://steffenricklin.github.io/cgcv-lab-assignments/)
 
-[Go to lab6 as GitHub pages](https://steffenricklin.github.io/cgcv-lab-assignments/lab6/)
+[Go to lab7 as GitHub pages](https://steffenricklin.github.io/cgcv-lab-assignments/lab7/)
 
-[Go to lab6 as GitHub repo](https://github.com/steffenricklin/cgcv-lab-assignments/lab6/)
+[Go to lab7 as GitHub repo](https://github.com/steffenricklin/cgcv-lab-assignments/lab7/)
 
 ___
