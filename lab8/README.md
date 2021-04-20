@@ -1,1 +1,1 @@
-Tutorial for mxnet including the Crash Course and Handwritten Digit Recognition 
+Tutorial for mxnet including the "Crash Course" and "Handwritten Digit Recognition", which can be found here https://mxnet.apache.org/versions/1.8.0/api/python/docs/tutorials/getting-started/crash-course/index.html and here https://mxnet.apache.org/versions/1.8.0/api/python/docs/tutorials/packages/gluon/image/mnist.html
